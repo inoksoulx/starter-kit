@@ -1,4 +1,8 @@
 {
+  "name": "myProject",
+  "version": "1.0.0",
+  "description": "Any text about your project",
+  "author": "Gleb Skorobogaty inoksoulx@gmail.com",
   "private": true,
   "engines": {
     "node": ">=0.12.0"
